@@ -1,0 +1,7 @@
+{
+  "name": "Elite English News Tutor",
+  "description": "A sophisticated AI-powered English learning app focused on business and technology news, featuring real-time voice conversations and bilingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
